@@ -1,7 +1,5 @@
 - Hi, I’m @jimanikolic
-- I’m interested in computer architecture, software development, cyber security
-- I’m currently learning databases and logic/theory of computing
-- I'm a junior at the University of Kentucky
+- BS Computer Science 2024
 
 - How to reach me 
 - jimanikolic@gmail.com
