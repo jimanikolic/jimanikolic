@@ -1,6 +1,6 @@
 - Hi, I’m @jimanikolic
-- BS Computer Science 2024
-- UKY College of Dentistry Class of 2028
+- B.S. Computer Science UKY, 2024
+- UKY College of Dentistry, 2028
 
 <!---
 jimanikolic/jimanikolic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
